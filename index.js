@@ -11,3 +11,6 @@ function minus(a,b)
 function mutiplier(a,b){
     return a*b
 }
+function namesay(){
+    console.log("hello")
+}
